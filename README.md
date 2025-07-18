@@ -11,6 +11,7 @@ I'm using this repo to track my progress through the CSS Foundations section of 
 - `03-grouping-selectors`
 - `04-chaining-selectors`
 - `05-descendant-combinator`
+- `cascade/01-cascade-fix`
 
 These exercises cover essential CSS topics like selectors, spacing, and element styling.
 
