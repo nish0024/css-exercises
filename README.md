@@ -1,8 +1,8 @@
-# CSS Foundations – The Odin Project
+# CSS Exercises – The Odin Project
 
 This repository is a fork of [The Odin Project's CSS Exercises](https://github.com/TheOdinProject/css-exercises).
 
-I'm using this repo to track my progress through the CSS Foundations section of the curriculum.
+I'm using this repo to track my progress through the CSS section of the curriculum.
 
 ### ✅ Completed Exercises:
 
