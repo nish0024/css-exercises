@@ -14,6 +14,13 @@ I'm using this repo to track my progress through the CSS Foundations section of 
 - `cascade/01-cascade-fix`
 - `01-margin-and-padding-1`
 - `02-margin-and-padding-2`
+- `01-flex-center`
+- `02-flex-header`
+- `03-flex-header-2`
+- `04-flex-information`
+- `05-flex-modal`
+- `06-flex-layout`
+- `07-flex-layout-2`
 
 These exercises cover essential CSS topics like selectors, spacing, and element styling.
 
